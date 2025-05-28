@@ -1,0 +1,8 @@
+num_val,test statistic,p-value,pass
+time_in_hospital,1196460552.5,2.116668190051554e-84,True
+num_lab_procedures,1225611102.0,5.505698969871248e-39,True
+num_procedures,1351895340.5,1.6002818420136029e-49,True
+num_medications,1181496710.5,2.4082255330330894e-112,True
+number_outpatient,1180330048.0,1.594057910884987e-272,True
+number_emergency,1183642416.5,0.0,True
+number_inpatient,1000697342.0,0.0,True
